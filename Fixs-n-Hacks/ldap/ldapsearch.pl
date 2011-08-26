@@ -1,4 +1,4 @@
-i#!/usr/bin/env perl
+#!/usr/bin/env perl
 use warnings;
 use Net::LDAP;
 
