@@ -1,0 +1,4 @@
+LDAP RELATED SCRIPTS may not work unless Net::LDAP perl  module is installed.
+
+You can install it using cpan Net::LDAP
+
